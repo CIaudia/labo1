@@ -1,0 +1,32 @@
+﻿<Window x:Class="labo1.Supprimer_local"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labo1"
+        mc:Ignorable="d"
+        Title="Supprimer_local" Height="450" Width="800">
+    <Grid Background="#FFBFC6E7">
+        <Image Margin="10,10,658.6,284" Source="room.png" Stretch="Fill"/>
+        <Image Margin="10,156,658.6,138" Source="room.png" Stretch="Fill"/>
+        <Image Margin="10,287,658.6,7" Source="room.png" Stretch="Fill"/>
+        <Image Margin="432,10,236.6,284" Source="room.png" Stretch="Fill"/>
+        <Image Margin="432,156,236.6,138" Source="room.png" Stretch="Fill"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="170,48,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="170,198,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="170,325,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="575,48,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="575,198,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="1240" HorizontalAlignment="Left" Margin="301,48,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="1750" HorizontalAlignment="Left" Margin="296,198,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="1550" HorizontalAlignment="Left" Margin="296,325,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="2031" HorizontalAlignment="Left" Margin="701,48,-38.4,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="2080" HorizontalAlignment="Left" Margin="701,198,-38.4,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="352,193,0,0" VerticalAlignment="Top" Width="75" Height="43" Click="Button_Click"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="352,43,0,0" VerticalAlignment="Top" Width="75" Height="44" Click="Button_Click"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="352,325,0,0" VerticalAlignment="Top" Width="75" Height="44" Click="Button_Click"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="709,82,0,0" VerticalAlignment="Top" Width="75" Height="44" Click="Button_Click"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="709,227,0,0" VerticalAlignment="Top" Width="75" Height="44" Click="Button_Click"/>
+
+    </Grid>
+</Window>

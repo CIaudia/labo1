@@ -1,0 +1,19 @@
+﻿<Window x:Class="labo1.Ajouter_local"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labo1"
+        mc:Ignorable="d"
+        Title="Ajouter_local" Height="450" Width="800">
+    <Grid Background="#FFBFC6E7">
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="170,51,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label HorizontalAlignment="Left" Margin="296,50,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="169,106,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Image Margin="0,25,624.6,241" Source="room.png" Stretch="Fill"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="296,51,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="170,150,0,0" VerticalAlignment="Top" Height="176" Width="587" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Button Content="Ajouter" HorizontalAlignment="Left" Margin="607,359,0,0" VerticalAlignment="Top" Width="106" Height="37"/>
+
+    </Grid>
+</Window>

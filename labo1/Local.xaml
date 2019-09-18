@@ -1,0 +1,17 @@
+﻿<Window x:Class="labo1.Local"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labo1"
+        mc:Ignorable="d"
+        Title="Local" Height="450" Width="800">
+    <Grid Background="#FFBFC6E7">
+        <Image Margin="0,25,624.6,241" Source="room.png" Stretch="Fill"/>
+        <Label Content="Numéro local:" HorizontalAlignment="Left" Margin="170,51,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="1240" HorizontalAlignment="Left" Margin="296,50,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="169,106,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Placer la grille au centre du four. Préchauffer le four à 180 °C (350 °F). &#xD;&#xA;Tapisser deux plaques à biscuits de tapis de silicone ou de papier parchemin.&#xD;&#xA;Dans un bol, fouetter les blancs d'œufs au batteur électrique jusqu'à ce qu'ils &#xD;&#xA;forment des pics mous. Ajouter la moitié du sucre (130 g/1 tasse) &#xD;&#xA;graduellement et continuer jusqu'à la formation de pics fermes.Tamiser le &#xD;&#xA;cacao et le reste du sucre au-dessus du bol avec la meringue. Ajouter le &#xD;&#xA;chocolat et mélanger. Laisser reposer 10 minutes.À l'aide d'une cuillère à &#xD;&#xA;crème glacée de 15 ml (1 c. à soupe), former des biscuits et les déposer sur &#xD;&#xA;les plaques en les espaçant.Cuire au four, une plaque à la fois, 8 minutes ou &#xD;&#xA;jusqu'à ce que les biscuits craquent, que le pourtour soit croustillant et le&#xD;&#xA; centre, encore tendre. Laisser refroidir complètement sur la plaque." HorizontalAlignment="Left" Margin="169,135,-12.4,0" VerticalAlignment="Top" Height="252" Width="637" FontFamily="Arial" FontSize="18"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\bin\Debug\labo1.exe.config
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\bin\Debug\labo1.exe
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\bin\Debug\labo1.pdb
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.csprojAssemblyReference.cache
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\MainWindow.g.cs
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\App.g.cs
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1_MarkupCompile.cache
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1_MarkupCompile.lref
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\MainWindow.baml
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.g.resources
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.Properties.Resources.resources
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.csproj.GenerateResource.cache
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.csproj.CoreCompileInputs.cache
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.exe
+C:\Users\loran\Desktop\Dev_Appli\labo1\labo1\obj\Debug\labo1.pdb

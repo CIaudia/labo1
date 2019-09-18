@@ -1,0 +1,26 @@
+﻿<Window x:Class="labo1.Ajout_client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labo1"
+        mc:Ignorable="d"
+        Title="Ajout_client" Height="450" Width="800">
+    <Grid Background="#FFBFC6E7">
+        <Label Content="Nom:" HorizontalAlignment="Left" Margin="275,100,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18" BorderBrush="#FF0E0B0B"/>
+        <Label Content="Prenom:" HorizontalAlignment="Left" Margin="273,134,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Locaux :" HorizontalAlignment="Left" Margin="275,184,0,0" VerticalAlignment="Top" Height="29" Width="178" FontFamily="Arial" FontSize="18" FontWeight="Bold"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="390,100,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Label Content="Disponibilité:" HorizontalAlignment="Left" Margin="415,184,0,0" VerticalAlignment="Top" Height="29" Width="178" FontFamily="Arial" FontSize="18" FontWeight="Bold"/>
+        <Image Margin="0,100,525.6,90" Source="contact.png" Stretch="Fill"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="406,229,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="273,229,0,0" VerticalAlignment="Top" Height="29" Width="84" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="390,134,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18" Foreground="#FF0C0303" Background="#FF949292"/>
+        <Label Content="Numéro employé:" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" Height="29" Width="156" FontFamily="Arial" FontSize="18"/>
+        <Label Content="111-222-77" HorizontalAlignment="Left" Margin="189,9,0,0" VerticalAlignment="Top" Width="100" FontFamily="Arial" FontSize="18"/>
+        <Label Content="Numéro Carte:" HorizontalAlignment="Left" Margin="28,44,0,0" VerticalAlignment="Top" Height="38" Width="131" FontFamily="Arial" FontSize="18"/>
+        <Label Content="111-222-FF" HorizontalAlignment="Left" Margin="189,44,0,0" VerticalAlignment="Top" Width="119" FontFamily="Arial" FontSize="18"/>
+        <Button Content="Ajouter" HorizontalAlignment="Left" Margin="607,359,0,0" VerticalAlignment="Top" Width="106" Height="37"/>
+
+    </Grid>
+</Window>
